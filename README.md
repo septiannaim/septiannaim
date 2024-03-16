@@ -1,4 +1,4 @@
-# Hi there, I'm Septian Na'im! 👋
+# Hi Guys, I'm Septian Na'im! 👋
 
 <p align="center">
   <a href="https://www.instagram.com/na_implung/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/instagram.svg"></a>&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm an Android Developer with a passion for technology, high spirits in programming, and a relentless drive for improving organizational skills.
+I'm an student information technology with a passion for technology, high spirits in programming, and a relentless drive for improving organizational skills.
 
 - 🚀 Experienced in Java, C++, Dart , and Kotlin.
 - 💻 Regularly coding apps and games for continuous skill development.
