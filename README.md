@@ -1,10 +1,10 @@
 # Hi there, I'm Septian Na'im! 👋
 
 <p align="center">
-  <a href="https://www.instagram.com/na_implung/"><img height="30" src="https://github.com/septiannaim/septiannaim/instagram.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/linkedin.svg"></a>&nbsp;&nbsp;
-  <a href="https://github.com/septiannaim"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
-  <a href="naimplung28@gmail.com"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/gmail.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/na_implung/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/instagram.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/linkedin.svg"></a>&nbsp;&nbsp;
+  <a href="https://github.com/septiannaim"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/github.svg"></a>&nbsp;&nbsp;
+  <a href="naimplung28@gmail.com"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 
 ## About Me
