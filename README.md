@@ -1,75 +1,52 @@
-<h1 align="center">Hi Guys! I'm Septian Na'im! 👋</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <a href="https://www.instagram.com/na_implung/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/instagram.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/linkedin.svg"></a>&nbsp;&nbsp;
-  <a href="https://github.com/septiannaim"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/github.svg"></a>&nbsp;&nbsp;
-  <a href="mailto:naimplung28@gmail.com"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/gmail.svg"></a>&nbsp;&nbsp;
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F27F1B&center=true&vCenter=true&width=440&lines=Welcome+to+my+Profile!;Student+%7C+IT+Enthusiast+%7C+Flutter+Fan;Let's+Build+Amazing+Things+together!+🚀" alt="Animated Greetings">
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm an IT student passionate about **technology**, high spirits in **programming**, and a relentless drive to improve organizational skills.
-
-- 🔥 Skilled in **Java**, **C++**, **Dart**, **Kotlin**, and **JavaScript**.
-- 👾 Experienced in cross-platform dev using **Flutter** and **React Native**.
-- 🌐 Web development with **Laravel**, **CodeIgniter (CI)**, **JavaScript**.
-- 🎓 Completed courses on [Dicoding](https://www.dicoding.com) for skill development and portfolio enhancements.
-- 🤝 A true team player, actively involved in organizations and projects.
-- 🌱 Always learning new things and embracing challenges.
-
----
-
-## 🛠️ Skills & Technology
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
-
-## 🏆 Achievements & GitHub Stats
+###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=septiannaim&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
+
+###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=septiannaim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.instagram.com/na_implung/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
-  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="mailto:naimplung28@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
-</p>
-
----
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/septiannaim/septiannaim/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/septiannaim/septiannaim/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/septiannaim/septiannaim/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
+###
