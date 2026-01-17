@@ -4,113 +4,72 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sᴇᴘᴛɪᴀɴ Nᴀ'ɪᴍ! 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
-
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Mobile App Enthusiast with a huge love for Flutter, Kotlin, Laravel, CI, Dart, JavaScript, and Cross-Platform App Development. </p>
-
-- ✨ Passionate learner & IT student.
-- 🌱 Continuously learning new things and exploring programming.
-- 💻 Developing apps for portfolio-building and skill improvement.
-- 🤝 Active team player in organizations and projects.
-- ✍ Writing technical blogs for sharing knowledge.
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://github.com/septiannaim) for more details about me.
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=septiannaim&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Septian Na'im" style="padding-right:20px;" />
-</p>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Septian Na'im! 👋 
+*Digital Craftsman (Developer / Problem Solver)*
 
 ---
 
+## 👩‍💻 About Me
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+- 🎓 IT Student with strong enthusiasm for technology and programming.
+- 🌱 Continuously learning **Flutter, Laravel, React Native**, and **cross-platform app development**.
+- 👾 Specialized in building high-performance **mobile apps** and web applications.
+- 🏆 Actively involved in **team collaboration** and organizational projects.
+- ✍ Sharing technical knowledge through open-source contributions.
+
+---
+
+## 🛠️ Tech Stack & Current Learning
+
+<h3 align="left">Tech Stack</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+</p>
+
+<h3 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Animated Tech Skills" src="./Skills_Animation_White.gif">
+  </picture>
+</h3>
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Expanding knowledge in Flutter and React Native.</li>
-  <li>Deepening skills in Laravel, CodeIgniter, and JavaScript.</li>
-  <li>Improving cross-platform state management and system performance.</li>
+  <li>Improving expertise in **Flutter** and **React Native** for mobile app development.</li>
+  <li>Exploring backend systems with **Laravel** and **CodeIgniter**.</li>
+  <li>Deepening knowledge of state management and system architecture.</li>
 </ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/septiannaim/flutter-cross-platform-performance">🔥Flutter: Cross-Platform Performance 📱</a></li>
-  <li><a href="https://dev.to/septiannaim/scaling-applications-with-laravel">Scaling Applications with Laravel 🚀</a></li>
-  <li><a href="https://dev.to/septiannaim/building-react-native-apps">Building React Native Apps 🚀</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/septiannaim">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=septiannaim&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=septiannaim&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=septiannaim&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=septiannaim&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
 
 ---
 
-<!--Contact Section--> 
+## 🏆 Contribution & Achievements
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="mailto:naimplung28@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="naimplung28@gmail.com" style="margin-bottom: 5px;" />
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=septiannaim&theme=radical&row=2&column=3"/>
+</p>
 
-<a href="https://www.instagram.com/na_implung/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=septiannaim&bg_color=0f172a&color=38bdf8&line=3b82f6&point=f97316&radius=10&area_color=52525b&hide_border=true"/>
+</p>
 
-<a href="https://github.com/septiannaim" target="_blank">
-<img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
-</a>
+---
 
-<a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+## 🤝 Connect With Me
 
-<a href="https://dev.to/septiannaim" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="DEV Community" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
+<p align="center">
+  <a href="mailto:naimplung28@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail Logo"/></a>
+  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Logo"/></a>
+  <a href="https://www.instagram.com/na_implung/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram Logo"/></a>
+  <a href="https://github.com/septiannaim"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub Logo"/></a>
+  <a href="https://dev.to/septiannaim"><img src="https://img.icons8.com/windows/48/000000/dev.png" alt="DEV Logo"/></a>
+</p>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://bmc.link/septiannaim" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" >
-</a>
-</div>
-
+---
 
 <!--Footer--> 
 <p align="center">
