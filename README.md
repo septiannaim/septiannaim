@@ -1,12 +1,10 @@
-<h1 align="center">
-  Hi Guys, I'm Septian Na'im! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h1>
+<h1 align="center">Hi Guys! I'm Septian Na'im! 👋</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/na_implung/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/instagram.svg"></a>
-  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/linkedin.svg"></a>
-  <a href="https://github.com/septiannaim"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/github.svg"></a>
-  <a href="mailto:naimplung28@gmail.com"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/gmail.svg"></a>
+  <a href="https://www.instagram.com/na_implung/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/instagram.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/linkedin.svg"></a>&nbsp;&nbsp;
+  <a href="https://github.com/septiannaim"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/github.svg"></a>&nbsp;&nbsp;
+  <a href="mailto:naimplung28@gmail.com"><img height="30" src="https://github.com/septiannaim/septiannaim/blob/main/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 
 ---
@@ -19,61 +17,59 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Student in Information Technology, passionate about tech and programming.
-- 💬 Skills in Java, C++, Dart, Kotlin.
-- 👾 Cross-platform dev with **Flutter** and **React Native**.
-- 🌐 Building web apps using **Laravel**, **CI**, and **JavaScript**.
-- 🎓 Courses completed at [Dicoding.com](https://www.dicoding.com/).
-- 🤝 Team player, loves organization and collaboration.
-- 🌱 Always learning and ready for new challenges!
+I'm an IT student passionate about **technology**, high spirits in **programming**, and a relentless drive to improve organizational skills.
+
+- 🔥 Skilled in **Java**, **C++**, **Dart**, **Kotlin**, and **JavaScript**.
+- 👾 Experienced in cross-platform dev using **Flutter** and **React Native**.
+- 🌐 Web development with **Laravel**, **CodeIgniter (CI)**, **JavaScript**.
+- 🎓 Completed courses on [Dicoding](https://www.dicoding.com) for skill development and portfolio enhancements.
+- 🤝 A true team player, actively involved in organizations and projects.
+- 🌱 Always learning new things and embracing challenges.
 
 ---
 
-## 🏆 Achievements & GitHub Profile Trophy
+## 🛠️ Skills & Technology
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+</div>
+
+---
+
+## 🏆 Achievements & GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=septiannaim&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=septiannaim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
+</div>
+
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=septiannaim&theme=radical&row=1&column=6" />
+  <a href="https://www.instagram.com/na_implung/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
+  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="mailto:naimplung28@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
 </p>
 
 ---
 
-## 🚀 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=septiannaim&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=septiannaim&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=septiannaim&theme=radical" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🛠️ My Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=F27F1B" />
-  <img src="https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&color=7F52FF" />
-  <img src="https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&color=00B4AB" />
-  <img src="https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&color=02569B" />
-  <img src="https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&color=61DBFB" />
-  <img src="https://img.shields.io/badge/React_JS-informational?style=flat&logo=react&color=61DBFB" />
-  <img src="https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&color=FF2D20" />
-  <img src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&color=F7DF1E" />
-</p>
-
----
-
-## 📫 Find Me & Let's Connect!
-
-<p align="center">
-  <a href="https://www.instagram.com/na_implung/"><img src="https://img.shields.io/badge/Instagram-na_implung-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img src="https://img.shields.io/badge/LinkedIn-Septian%20Na'im-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:naimplung28@gmail.com"><img src="https://img.shields.io/badge/Gmail-naimplung28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="120"/>
-</p>
-
-<p align="center"><b>Let's connect and build amazing things together! 🚀</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/septiannaim/septiannaim/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/septiannaim/septiannaim/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/septiannaim/septiannaim/output/pacman-contribution-graph.svg">
+</picture>
