@@ -38,13 +38,6 @@
   </picture>
 </h3>
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Improving expertise in **Flutter** and **React Native** for mobile app development.</li>
-  <li>Exploring backend systems with **Laravel** and **CodeIgniter**.</li>
-  <li>Deepening knowledge of state management and system architecture.</li>
-</ul>
-
 ---
 
 ## 🏆 Contribution & Achievements
